@@ -1,4 +1,4 @@
-
+Enhance Obsidian for macOS with instant Obsidian for macOS Macro | custom shortcuts + tags, the #1 macro. Includes custom shortcuts and tags for a smoother experience.
 
 
 
